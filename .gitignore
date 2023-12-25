@@ -1,0 +1,15 @@
+# Build and Release Folders
+*.lock
+.hugo_build.lock
+
+# Hugo
+public/
+dist
+
+# Backup Files
+*.markdown~
+*.md~
+
+node_modules
+package-lock.json
+bower_components
